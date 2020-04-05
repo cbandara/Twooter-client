@@ -60,3 +60,7 @@ ul.nav.navbar-nav li {
   background-size: cover;
   text-shadow: 0 0 8px #66757f;
 }
+
+.btn {
+  margin-top: 20px;
+}
